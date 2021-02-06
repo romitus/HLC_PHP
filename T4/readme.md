@@ -1,0 +1,2 @@
+## Tarea 4.- Variables
+Escribe un script en el que una misma variable tome dos valores distintos sin utilizar ninguna función. Luego añade al script una función que presente ese mismo nombre de variable con un valor distinto distinto de los anteriores, comprobando que esta ultima opción no modificó el último valor de aquellos.
