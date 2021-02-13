@@ -1,0 +1,5 @@
+# Tarea 7.3- Operadores PHP lógicos
+
+TAREA: Define tres variables: langosta, angula y caviar; y asígnales valores numéricos. Luego, escribe una estructura lógica que devuelva cierto en el caso de que dos de ellas superen los precios respectivos de: 50, 70 y 500, y falso en cualquier otro caso. Comprúebalo modificando los valores de las variables y viendo los resultados y súbelo como respuesta.
+
+Aclaración: Por ejemplo, se le pondrá a la langosta un valor que supere 50 y a la angula un valor que supere 70. Otro ejemplo: Un valor a la angula que supere 70 y un valor al caviar que supere 500. Solamente quedaría un caso más. Cualquier de ellos valdría. La estructura condicional deberá hacer las comprobaciones necesarias para que en esos casos descritos devuelva VERDADERO, y para el resto de casos devuelva FALSO.
